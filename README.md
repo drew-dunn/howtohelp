@@ -2910,7 +2910,7 @@
 <div class="image-crossfade">
 <img src="https://www.harlointeractive.com/uploads/xdigital-agency-portland.jpg.pagespeed.ic.n5rO2zBIeO.jpg" class="" alt="Digital Agency Portland" data-pagespeed-url-hash="2655033577" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
 <img data-lazy="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/08/Hurricane-Harvey.jpg" alt="digital agency san francisco" src="https://inhabitat.com/wp-content/blogs.dir/1/files/2017/08/Hurricane-Harvey.jpg" class="">
-<img data-lazy="http://cdn.washingtonexaminer.biz/cache/1060x600-691c8bbaf2b32334442c6cd7b5d9f855.jpg" alt="Les Mills" src="http://cdn.washingtonexaminer.biz/cache/1060x600-691c8bbaf2b32334442c6cd7b5d9f855.jpg" class="">
+<img data-lazy="US coast guard pic.jpg" alt="Les Mills" src="US coast guard pic.jpg" class="">
 <img data-lazy="https://i1.wp.com/www.socialworkhelper.com/wp-content/uploads/2017/09/Emergency-Services-1.jpg?resize=740%2C463&ssl=1" alt="Baskin Robbins" src="https://i1.wp.com/www.socialworkhelper.com/wp-content/uploads/2017/09/Emergency-Services-1.jpg?resize=740%2C463&ssl=1" class="">
 <img data-lazy="https://static1.squarespace.com/static/571ee84c356fb086c58f444f/t/59b5838c6f4ca36cb5047308/1505067926798/170827162819-01-hurricane-harvey-tim-fadek-super-169.jpg" alt="Daimler Trucks" src="https://static1.squarespace.com/static/571ee84c356fb086c58f444f/t/59b5838c6f4ca36cb5047308/1505067926798/170827162819-01-hurricane-harvey-tim-fadek-super-169.jpg" class="">
 <img data-lazy="http://www.danielausbun.org/uploads/5/2/1/8/5218170/houston_orig.jpg" alt="Fetzer Wines" src="http://www.danielausbun.org/uploads/5/2/1/8/5218170/houston_orig.jpg" class="active">
